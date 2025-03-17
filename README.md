@@ -8,6 +8,8 @@ In this way, the FoundationPose can be used by rgb input.
 Attention!!!!! However, this method is not stable. The performance is inflenced by the background easily. And the 
 initial pose is also not stable. 
 ```
+<img src="assets/1.png" width="600">
+<img src="assets/2.png" width="300">
 
 
 
